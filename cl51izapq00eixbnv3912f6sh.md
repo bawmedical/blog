@@ -81,7 +81,7 @@ Without an influential owner, and armies of lobbyists, the publicly-delivered NH
 
 But we absolutely can't afford to see large companies walking away with more NHS funds. There's not enough funding as it is.
 
-5. NHS England is not a care-giving organisation
+#### 5. NHS England is not a care-giving organisation
 
 NHS England is an Arms Length Body derived from the Department of Health and Social Care. **It does not and should not deliver care.** It's original name, from the 2012 Health and Social Care Act, was the 'NHS Commissioning Board'.
 
